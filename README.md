@@ -1,5 +1,5 @@
 ## Deployment
-This web application is deployed on [Vercel](https://speedy-editor.vercel.app/) 🚀.
+This web application is deployed on [Vercel](https://speedy-editor.vercel.app/) 🚀. https://speedy-editor.vercel.app/
 
 ## About
 This app is built using the latest versions of Next.js, DaisyUI (a TailwindCSS wrapper), and a few other libraries for its proper functioning.
